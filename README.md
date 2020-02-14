@@ -1,2 +1,3 @@
 # micjammer
-realized i didn't have a version of this on github
+
+a version of the schematic i used for the ultrasonic mic jammer
