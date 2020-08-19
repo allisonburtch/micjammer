@@ -1,5 +1,8 @@
 # micjammer
 
+
+![img](https://allisonburtch.github.io/images/posts/micjammer1.png)
+
 The Mic Jammer is an ultrasonic security system that gives people the
 confidence to know that their smart phone microphones are non-invasively muted. This is a hardware not a software solution.
 
